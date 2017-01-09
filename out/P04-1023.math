@@ -1,0 +1,33 @@
+__MATH_2__	__MATH_0__ __MATH_4__
+__MATH_3__	__MATH_0__ __MATH_1__
+__MATH_4__	__MATH_0__ __MATH_2__
+__MATH_6__	__MATH_0__ __MATH_1__ __MATH_7__ __MATH_8__ __MATH_9__ __MATH_11__ __MATH_14__
+__MATH_7__	__MATH_0__
+__MATH_8__	__MATH_0__ __MATH_1__ __MATH_9__ __MATH_11__ __MATH_14__
+__MATH_9__	__MATH_0__ __MATH_1__ __MATH_8__ __MATH_11__ __MATH_14__
+__MATH_11__	__MATH_0__ __MATH_1__ __MATH_8__ __MATH_9__ __MATH_14__
+__MATH_13__	__MATH_0__ __MATH_1__ __MATH_10__ __MATH_40__
+__MATH_14__	__MATH_0__ __MATH_1__ __MATH_8__ __MATH_9__ __MATH_10__ __MATH_11__ __MATH_13__ __MATH_40__
+__MATH_17__	__MATH_0__ __MATH_1__ __MATH_8__ __MATH_9__ __MATH_11__ __MATH_14__ __MATH_21__
+__MATH_19__	__MATH_0__ __MATH_1__ __MATH_10__ __MATH_30__ __MATH_34__ __MATH_40__
+__MATH_21__	__MATH_0__ __MATH_1__ __MATH_8__ __MATH_9__ __MATH_11__ __MATH_14__ __MATH_17__
+__MATH_23__	__MATH_0__ __MATH_1__ __MATH_10__ __MATH_13__ __MATH_40__
+__MATH_25__	__MATH_0__ __MATH_1__ __MATH_10__ __MATH_30__ __MATH_40__
+__MATH_27__	__MATH_0__ __MATH_1__ __MATH_10__ __MATH_30__ __MATH_40__
+__MATH_29__	__MATH_0__ __MATH_1__ __MATH_10__ __MATH_19__ __MATH_30__ __MATH_34__ __MATH_40__ __MATH_45__
+__MATH_30__	__MATH_0__ __MATH_1__ __MATH_10__
+__MATH_34__	__MATH_0__ __MATH_1__ __MATH_10__ __MATH_19__ __MATH_30__ __MATH_40__
+__MATH_35__	__MATH_36__
+__MATH_40__	__MATH_0__ __MATH_1__ __MATH_10__
+__MATH_41__	__MATH_42__ __MATH_51__ __MATH_59__
+__MATH_42__	__MATH_41__ __MATH_51__ __MATH_59__
+__MATH_44__	__MATH_0__ __MATH_1__ __MATH_10__ __MATH_47__ __MATH_55__ __MATH_58__ __MATH_61__ __MATH_82__
+__MATH_46__	__MATH_0__ __MATH_1__ __MATH_10__ __MATH_48__ __MATH_50__ __MATH_55__ __MATH_58__ __MATH_82__
+__MATH_49__	__MATH_47__
+__MATH_50__	__MATH_48__
+__MATH_51__	__MATH_41__ __MATH_42__ __MATH_59__
+__MATH_55__	__MATH_58__ __MATH_82__
+__MATH_58__	__MATH_45__ __MATH_47__ __MATH_48__ __MATH_49__ __MATH_50__ __MATH_55__ __MATH_82__
+__MATH_59__	__MATH_41__ __MATH_42__ __MATH_51__
+__MATH_61__	__MATH_55__ __MATH_58__ __MATH_82__
+__MATH_82__	__MATH_55__ __MATH_58__

@@ -1,0 +1,239 @@
+<   \lt
+>   \gt
+\approx  \approx \ap
+\approxeq  \approxeq
+\asymp  \asymp
+\backsim  \backsim
+\backsimeq  \backsimeq
+\bumpeq  \bumpeq
+\Bumpeq  \Bumpeq
+\circeq  \circeq
+\cong  \cong
+\curlyeqprec  \curlyeqprec
+\curlyeqsucc  \curlyeqsucc
+\doteq  \doteq
+\doteqdot  \doteqdot or \Doteq
+\eqcirc  \eqcirc
+\eqsim  \eqsim
+\eqslantgtr  \eqslantgtr
+\eqslantless  \eqslantless
+\equiv  \equiv
+\fallingdotseq  \fallingdotseq
+\geq  \geq or \ge
+    
+
+\geqq  \geqq
+\geqslant  \geqslant
+\gg  \gg
+\ggg  \ggg or \gggtr
+\gnapprox  \gnapprox
+\gneq  \gneq
+\gneqq  \gneqq
+\gnsim  \gnsim
+\gtrapprox  \gtrapprox
+\gtreqless  \gtreqless
+\gtreqqless  \gtreqqless
+\gtrless  \gtrless
+\gtrsim  \gtrsim
+\gvertneqq  \gvertneqq
+\leq  \leq or \le
+\leqq  \leqq
+\leqslant  \leqslant
+\lessapprox  \lessapprox
+\lesseqgtr  \lesseqgtr
+\lesseqqgtr  \lesseqqgtr
+\lessgtr  \lessgtr
+\lesssim  \lesssim
+\ll  \ll
+    
+
+\lll  \lll or \llless
+\lnapprox  \lnapprox
+\lneq  \lneq
+\lneqq  \lneqq
+\lnsim  \lnsim
+\lvertneqq  \lvertneqq
+\ncong  \ncong
+\neq  \neq or \ne
+\ngeq  \ngeq
+\ngeqq  \ngeqq
+\ngeqslant  \ngeqslant
+\ngtr  \ngtr
+\nleq  \nleq
+\nleqq  \nleqq
+\nleqslant  \nleqslant
+\nless  \nless
+\nprec  \nprec
+\npreceq  \npreceq
+\nsim  \nsim
+\nsucc  \nsucc
+\nsucceq  \nsucceq
+\prec  \prec
+\precapprox  \precapprox
+    
+
+\preccurlyeq  \preccurlyeq
+\preceq  \preceq
+\precnapprox  \precnapprox
+\precneqq  \precneqq
+\precnsim  \precnsim
+\precsim  \precsim
+\risingdotseq  \risingdotseq
+\sim  \sim
+\simeq  \simeq
+\succ  \succ
+\succapprox  \succapprox
+\succcurlyeq  \succcurlyeq
+\succeq  \succeq
+\succnapprox  \succnapprox
+\succneqq  \succneqq
+\succnsim  \succnsim
+\succsim  \succsim
+\thickapprox  \thickapprox
+\thicksim  \thicksim
+\triangleq  \triangleq
+
+
+
+\circlearrowleft  \circlearrowleft
+\circlearrowright  \circlearrowright
+\curvearrowleft  \curvearrowleft
+\curvearrowright  \curvearrowright
+\downdownarrows  \downdownarrows
+\downharpoonleft  \downharpoonleft
+\downharpoonright  \downharpoonright
+\hookleftarrow  \hookleftarrow
+\hookrightarrow  \hookrightarrow
+\leftarrow  \leftarrow or \gets
+\Leftarrow  \Leftarrow
+\leftarrowtail  \leftarrowtail
+\leftharpoondown  \leftharpoondown
+\leftharpoonup  \leftharpoonup
+\leftleftarrows  \leftleftarrows
+\leftrightarrow  \leftrightarrow
+\Leftrightarrow  \Leftrightarrow
+\leftrightarrows  \leftrightarrows
+\leftrightharpoons  \leftrightharpoons
+\leftrightsquigarrow  \leftrightsquigarrow
+\Lleftarrow  \Lleftarrow
+    
+
+\longleftarrow  \longleftarrow
+\Longleftarrow  \Longleftarrow
+\longleftrightarrow  \longleftrightarrow
+\Longleftrightarrow  \Longleftrightarrow
+\longmapsto  \longmapsto
+\longrightarrow  \longrightarrow
+\Longrightarrow  \Longrightarrow or \implies
+\looparrowleft  \looparrowleft
+\looparrowright  \looparrowright
+\Lsh  \Lsh
+\mapsto  \mapsto
+\multimap  \multimap
+\nLeftarrow  \nLeftarrow
+\nLeftrightarrow  \nLeftrightarrow
+\nRightarrow  \nRightarrow
+\nearrow  \nearrow
+\nleftarrow  \nleftarrow
+\nleftrightarrow  \nleftrightarrow
+\nrightarrow  \nrightarrow
+\nwarrow  \nwarrow
+    
+
+\rightarrow  \rightarrow or \to
+\Rightarrow  \Rightarrow
+\rightarrowtail  \rightarrowtail
+\rightharpoondown  \rightharpoondown
+\rightharpoonup  \rightharpoonup
+\rightleftarrows  \rightleftarrows
+\rightleftharpoons  \rightleftharpoons
+\rightrightarrows  \rightrightarrows
+\rightsquigarrow  \rightsquigarrow
+\Rrightarrow  \Rrightarrow
+\Rsh  \Rsh
+\searrow  \searrow
+\swarrow  \swarrow
+\twoheadleftarrow  \twoheadleftarrow
+\twoheadrightarrow  \twoheadrightarrow
+\upharpoonleft  \upharpoonleft
+\upharpoonright  \upharpoonright or \restriction
+\upuparrows  \upuparrows
+
+
+
+\backepsilon  \backepsilon
+\because  \because
+\between  \between
+\blacktriangleleft  \blacktriangleleft
+\blacktriangleright  \blacktriangleright
+\bowtie  \bowtie
+\dashv  \dashv
+\frown  \frown
+\in  \in
+\mid  \mid
+\models  \models
+\ni  \ni or \owns
+\nmid  \nmid
+\notin  \notin
+\nparallel  \nparallel
+\nshortmid  \nshortmid
+\nshortparallel  \nshortparallel
+\nsubseteq  \nsubseteq
+    
+
+\nsubseteqq  \nsubseteqq
+\nsupseteq  \nsupseteq
+\nsupseteqq  \nsupseteqq
+\ntriangleleft  \ntriangleleft
+\ntrianglelefteq  \ntrianglelefteq
+\ntriangleright  \ntriangleright
+\ntrianglerighteq  \ntrianglerighteq
+\nvdash  \nvdash
+\nVdash  \nVdash
+\nvDash  \nvDash
+\nVDash  \nVDash
+\parallel  \parallel
+\perp  \perp
+\pitchfork  \pitchfork
+\propto  \propto
+\shortmid  \shortmid
+\shortparallel  \shortparallel
+\smallfrown  \smallfrown
+    
+
+\smallsmile  \smallsmile
+\smile  \smile
+\sqsubset  \sqsubset
+\sqsubseteq  \sqsubseteq
+\sqsupset  \sqsupset
+\sqsupseteq  \sqsupseteq
+\subset  \subset
+\Subset  \Subset
+\subseteq  \subseteq
+\subseteqq  \subseteqq
+\subsetneq  \subsetneq
+\subsetneqq  \subsetneqq
+\supset  \supset
+\Supset  \Supset
+\supseteq  \supseteq
+\supseteqq  \supseteqq
+\supsetneq  \supsetneq
+\supsetneqq  \supsetneqq
+    
+
+\therefore  \therefore
+\trianglelefteq  \trianglelefteq
+\trianglerighteq  \trianglerighteq
+\varpropto  \varpropto
+\varsubsetneq  \varsubsetneq
+\varsubsetneqq  \varsubsetneqq
+\varsupsetneq  \varsupsetneq
+\varsupsetneqq  \varsupsetneqq
+\vartriangle  \vartriangle
+\vartriangleleft  \vartriangleleft
+\vartriangleright  \vartriangleright
+\vdash  \vdash
+\Vdash  \Vdash
+\vDash  \vDash
+\Vvdash  \Vvdash
+
